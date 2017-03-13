@@ -75,7 +75,7 @@ Se solicita realizar lo siguiente:
 
 ## Resultado esperado
 #### Listado de vehículos:
-  ![Listado](listado.png)
+  ![Listado](ejercicio-3/listado.png)
 
 #### Despliegue de vehículo:
-  ![Detalle](despliegue.png)
+  ![Detalle](ejercicio-3/despliegue.png)
