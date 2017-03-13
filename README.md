@@ -52,7 +52,7 @@ Cree una herramienta que permita enviar mensajes tipo correo entre usuarios de u
 - Leido
 
 
-## Especificaciones:
+### Especificaciones:
 1. Implementar modelos según propuesta de base de datos.
 2. Generar controlador y vista para crear un mensaje, pudiéndo seleccionar el usuario a quien se quiere enviar.
 3. Desarrollar controlador y vista para revisar el listado de mensajes recibidos.
